@@ -3,7 +3,11 @@ Understanding Concepts via Deep Concept-Oriented Recognition
 
 # TL;DR: 
 
-      * An algorithm based on memory based relational neural network that has the ability to learn any simple - moderately simple concept. There are NO dictionaries or any type of look up. The search concept is actually learned and has been tested thorougly. Basic idea is to insert text, search for a "concept" (ex. find all foods in these reviews, or find all diseases from these EMRs, or find all turkish cities in this article) and the algorithm will output the results. 
+      * An algorithm based on memory based relational neural network that has the ability to learn any simple 
+      - moderately simple concept. There are NO dictionaries or any type of look up. The search concept is actually 
+      learned and has been tested thorougly. Basic idea is to insert text, search for a "concept" (ex. find all foods 
+      in these reviews, or find all diseases from these EMRs, or find all turkish cities in this article) and the 
+      algorithm will output the results. 
 
 # Problem with Yelp:
 
@@ -72,5 +76,6 @@ Understanding Concepts via Deep Concept-Oriented Recognition
 
 # Adjustments
 
-      * Training the model is very simple and there is also a human-in-the-loop component where we can quickly adjust the model for any incorrect results. 
+      * Training the model is very simple and there is also a human-in-the-loop component where we can quickly 
+      adjust the model for any incorrect results. 
       * The degree of specificity regarding the results for the concept can also be easily adjusted.
