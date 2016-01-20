@@ -8,6 +8,7 @@ Understanding Concepts via Deep Concept-Oriented Recognition
       learned and has been tested thorougly. Basic idea is to insert text, search for a "concept" (ex. find all foods 
       in these reviews, or find all diseases from these EMRs, or find all turkish cities in this article) and the 
       algorithm will output the results. 
+      • For Yelp, we can easily produce BEST, WORST and TRENDING dishes for each restaurant.
 
 # Problem with Yelp:
 
