@@ -1,6 +1,8 @@
 # DeCOR
 Understanding Concepts via Deep Concept-Oriented Recognition
 
+**UPDATE**: This is deprecated. This is was something I was playing around with before the concept of word2vec or word embeddings came forth. So if trying to replicate, I suggest using those as the base instead. 
+
 # TL;DR: 
 
       • An algorithm based on memory based relational neural network that has the ability to learn any simple 
